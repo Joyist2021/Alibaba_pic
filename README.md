@@ -3,7 +3,7 @@
 
 
 
-建了一个测试站:http://ali-pic.tj365.top(可能需要扶墙)
+建了一个测试站:http://alipic.22web.org/ http://ali-pic.tj365.top/  (可能需要扶墙)
 
 一张2mb大小的测试图:
 https://ae01.alicdn.com/kf/Hb7371dd644714ac690f091399ee3b69bY.jpg
